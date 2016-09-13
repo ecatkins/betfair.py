@@ -51,6 +51,8 @@ You can write SSL certificates to another directory by passing the
 ``--name`` parameter ::
 
     invoke ssl --name=path/to/certs/betfair
+
+Alternatively, if the command above does not work, use the instructions in the link below
 http://www.bespokebots.com/betfair-ssl-certs.php
 
 Once you have generated the files, you can upload the ``betfair.crt`` file to
